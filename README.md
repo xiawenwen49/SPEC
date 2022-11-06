@@ -54,7 +54,7 @@ Note the **NUMBER_OF_QUERIES** should not exceed the number of queries stored in
 Since the training of RL relies on a server that run the SPEC expanding process iteration by iteration,
 we need to build and start the server before using the csp_py/rl.py to train the controller.
 ## Compile and start the SPEC server
-Please refer to the c++/interface/README.md file.
+Please refer to the c++/csp/interface/README.md file.
 
 ## Training using the python script
 After starting the cspserver, we could run the csp_py/rl.py using the TrainAgent.trian() function.
