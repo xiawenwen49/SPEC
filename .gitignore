@@ -1,0 +1,12 @@
+# caches
+**/__pycache__/
+**/.pytest_cache
+**/.vscode
+**/*.egg-info
+**/.ipynb_checkpoints
+**/.DS_Store
+**/.idea
+
+
+# compiled binary files
+**/bin
